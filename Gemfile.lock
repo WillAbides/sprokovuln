@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    sprokovuln (0.1.0)
+    sprokovuln (0.2.0)
       sprockets (= 3.7.1)
 
 GEM
